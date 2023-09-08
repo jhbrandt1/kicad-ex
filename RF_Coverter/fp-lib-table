@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/devices/max9203_AD/MAX9203EKAT/Library.pretty")(options "")(descr ""))
+  (lib (name "RF footprint Library")(type "KiCad")(uri "${KIPRJMOD}/RF footprint Library.pretty")(options "")(descr ""))
+  (lib (name "RF_converter_library")(type "KiCad")(uri "${KIPRJMOD}/devices/max9203_AD/MAX9203EKAT/RF_converter_library.pretty")(options "")(descr ""))
+)
